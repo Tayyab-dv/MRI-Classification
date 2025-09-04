@@ -4,7 +4,7 @@ Classifies brain MRI scans into **four tumor types** — *glioma, meningioma, pi
 
 ## Dataset
 - **Source:** Kaggle — *Brain Tumor MRI Dataset* 
-- **Structure:** `Training/` and `Testing/` f
+- **Structure:** `Training/` and `Testing/` 
 
 
 ## Results (Final Test)
