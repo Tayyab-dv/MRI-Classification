@@ -1,5 +1,4 @@
-# Brain Tumor Classification (MRI) — Xception & Custom CNN
-
+# Brain Tumor Classification (MRI) 
 Classifies brain MRI scans into **four tumor types** — *glioma, meningioma, pituitary,* and *no tumor* — using transfer learning (Xception) and a lightweight custom CNN.
 
 ## Dataset
